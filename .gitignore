@@ -5,7 +5,7 @@
 
 #except indicated files
 !*.c
-! name.txt
+#!name.txt
 
 #except README and LCIENSE
 ! Readme.md
