@@ -1,13 +1,3 @@
 #ignore linux compiled files
-*
 *.exe
 *.o
-
-#except indicated files
-!*.c
-#!name.txt
-
-#except README and LCIENSE
-! Readme.md
-! LCIENSE.txt
-! *.gitignore
