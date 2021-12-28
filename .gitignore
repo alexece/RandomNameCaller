@@ -1,3 +1,4 @@
 #ignore linux compiled files
 NameCaller/*.exe
 NameCaller/*.o
+*.c
