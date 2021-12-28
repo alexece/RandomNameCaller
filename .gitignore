@@ -1,5 +1,7 @@
-#ignore all files
+#ignore linux compiled files
 *
+*.exe
+*.out
 
 #except indicated files
 !*.c
