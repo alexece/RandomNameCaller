@@ -1,1 +1,10 @@
-main
+#ignore all files
+*
+
+#except indicated files
+!*.c
+! name.txt
+
+#except README and LCIENSE
+! Readme.md
+! LCIENSE.txt
